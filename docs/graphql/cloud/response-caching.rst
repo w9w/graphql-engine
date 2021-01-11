@@ -15,7 +15,7 @@ Query response caching
 Introduction
 ------------
 
-Hasura Cloud provides support for caching query responses, in order to 
+Hasura Cloud provides support for caching query responses in order to 
 improve performance for queries which are executed frequently.
 
 Cached responses are stored in for a period of time in a LRU (least-recently 
